@@ -1,0 +1,8 @@
+ol{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    top: auto;
+    border: 3px;
+    border-color: black;
+}

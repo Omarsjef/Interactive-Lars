@@ -1,0 +1,70 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 1ch;
+}
+h1{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    top: 2ch;
+    background-color: bisque;
+    border-radius: 15px;
+    font-size: 70px;
+    padding: 20px;
+    
+
+
+
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    top: 2ch;
+    font-size: 100%;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 15px;
+
+}
+h3{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    top: 2ch;
+    font-size: 100%;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+html{
+    background-image: url("BAKGRUNN INDEX.png");
+    background-size: cover;
+   
+    /*
+    filter: blur(8px);
+    */
+}
+
+
+
+
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 8%;
+    margin: 0 auto;
+    /* justify-content: space-between; */
+    /* background-color: rgb(255, 0, 0); */
+    padding-left: 1%;
+    width: fit-content;
+}
